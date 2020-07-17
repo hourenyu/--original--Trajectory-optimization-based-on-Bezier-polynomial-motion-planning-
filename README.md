@@ -11,4 +11,6 @@
 
   ②Bezier优化主要参考资料为《Online Safe Trajectory Generation For Quadrotors Using Fast Marching Method and Bernstein Basis Polynomial》、《Minimum snap trajectory generation and control for quadrotors》、https://www.bilibili.com/video/BV1hs4115713
 
+add: 代码中使用了二次规划库(qpOASES)以及矩阵库(Eigen)
+
 代码在持续优化中...欢迎大家一起交流。
